@@ -9,3 +9,4 @@
 **/*.lic
 target/
 **/nexus-data
+**/*.tar.gz
